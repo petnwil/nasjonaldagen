@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nasjonaldagen/static/css/main.9d5b29c0.chunk.css",
+    "main.css": "/nasjonaldagen/static/css/main.69b42baa.chunk.css",
     "main.js": "/nasjonaldagen/static/js/main.d7a700eb.chunk.js",
     "main.js.map": "/nasjonaldagen/static/js/main.d7a700eb.chunk.js.map",
     "runtime-main.js": "/nasjonaldagen/static/js/runtime-main.cb625e8e.js",
@@ -10,14 +10,14 @@
     "static/js/3.6ae49f95.chunk.js": "/nasjonaldagen/static/js/3.6ae49f95.chunk.js",
     "static/js/3.6ae49f95.chunk.js.map": "/nasjonaldagen/static/js/3.6ae49f95.chunk.js.map",
     "index.html": "/nasjonaldagen/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/nasjonaldagen/static/css/main.9d5b29c0.chunk.css.map",
+    "static/css/main.69b42baa.chunk.css.map": "/nasjonaldagen/static/css/main.69b42baa.chunk.css.map",
     "static/js/2.6a266b64.chunk.js.LICENSE.txt": "/nasjonaldagen/static/js/2.6a266b64.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/nasjonaldagen/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.cb625e8e.js",
     "static/js/2.6a266b64.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
+    "static/css/main.69b42baa.chunk.css",
     "static/js/main.d7a700eb.chunk.js"
   ]
 }
