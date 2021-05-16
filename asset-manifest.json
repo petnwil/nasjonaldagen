@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/nasjonaldagen/static/css/main.3b9d4b5d.chunk.css",
-    "main.js": "/nasjonaldagen/static/js/main.5a0c80f1.chunk.js",
-    "main.js.map": "/nasjonaldagen/static/js/main.5a0c80f1.chunk.js.map",
+    "main.css": "/nasjonaldagen/static/css/main.0adf96c2.chunk.css",
+    "main.js": "/nasjonaldagen/static/js/main.5dd5298b.chunk.js",
+    "main.js.map": "/nasjonaldagen/static/js/main.5dd5298b.chunk.js.map",
     "runtime-main.js": "/nasjonaldagen/static/js/runtime-main.cb625e8e.js",
     "runtime-main.js.map": "/nasjonaldagen/static/js/runtime-main.cb625e8e.js.map",
     "static/js/2.6a266b64.chunk.js": "/nasjonaldagen/static/js/2.6a266b64.chunk.js",
@@ -10,14 +10,16 @@
     "static/js/3.6ae49f95.chunk.js": "/nasjonaldagen/static/js/3.6ae49f95.chunk.js",
     "static/js/3.6ae49f95.chunk.js.map": "/nasjonaldagen/static/js/3.6ae49f95.chunk.js.map",
     "index.html": "/nasjonaldagen/index.html",
-    "static/css/main.3b9d4b5d.chunk.css.map": "/nasjonaldagen/static/css/main.3b9d4b5d.chunk.css.map",
+    "static/css/main.0adf96c2.chunk.css.map": "/nasjonaldagen/static/css/main.0adf96c2.chunk.css.map",
     "static/js/2.6a266b64.chunk.js.LICENSE.txt": "/nasjonaldagen/static/js/2.6a266b64.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/nasjonaldagen/static/media/logo.6ce24c58.svg"
+    "static/media/flagg.41f14c4a.webp": "/nasjonaldagen/static/media/flagg.41f14c4a.webp",
+    "static/media/logo.6ce24c58.svg": "/nasjonaldagen/static/media/logo.6ce24c58.svg",
+    "static/media/russejenta.e548d44c.jpeg": "/nasjonaldagen/static/media/russejenta.e548d44c.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.cb625e8e.js",
     "static/js/2.6a266b64.chunk.js",
-    "static/css/main.3b9d4b5d.chunk.css",
-    "static/js/main.5a0c80f1.chunk.js"
+    "static/css/main.0adf96c2.chunk.css",
+    "static/js/main.5dd5298b.chunk.js"
   ]
 }
